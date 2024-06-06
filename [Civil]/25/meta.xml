@@ -1,0 +1,6 @@
+<meta>
+	<info author="Psiko"type="script" version="1.0.0" />
+	<script type="client"src="replace.lua" />
+	<file src="25.txd" />
+	<file src="25.dff" />
+</meta>
