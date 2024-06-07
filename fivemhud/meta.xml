@@ -1,0 +1,16 @@
+<meta>
+	<script src="c_circle.lua" type="shared" />
+	<script src="hud_c.lua" type="client" cache="false" />
+	
+	<file src="assets/1.png"/>
+	<file src="assets/2.png"/>
+	<file src="assets/3.png"/>
+	<file src="assets/4.png"/>
+	<file src="assets/5.png"/>
+	<file src="assets/0.png"/>
+
+	
+	<file src="hud.fx" type="client"/>
+
+
+</meta>
