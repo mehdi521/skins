@@ -1,0 +1,21 @@
+<meta>
+
+    <script type="client" src="client.lua" />
+
+    <file src="index.html" type="client" />
+
+    <file src="js/framework.js" cache="false" />
+	<file src="js/mtaevents.js" cache="false" />
+	<file src="js/jquery.min.js" cache="false" />
+
+
+    <file src="ui.css" type="client" />
+    <file src="icon/heart.png" type="client" />
+    <file src="icon/hunger.png" type="client" />
+    <file src="icon/thirst.png" type="client" />
+    <file src="icon/shield.png" type="client" />
+   
+
+    <oop>true</oop>
+
+</meta>

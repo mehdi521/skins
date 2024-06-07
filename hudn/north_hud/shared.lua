@@ -1,0 +1,1 @@
+servertext = "Chronicles RP"

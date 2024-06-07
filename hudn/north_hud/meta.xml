@@ -1,0 +1,28 @@
+<meta>
+	<info author="7ARAMI" type="script" name="hud" />
+	<script src="c_hud.luac" type="client" cache="false" />
+	<script src="shared.lua" type="client" cache="false" />
+	<script src="s_hud.lua" type="server" />
+
+	<file src="/assets/font.ttf"/>
+	<file src="/assets/font2.ttf"/>
+	<file src="/assets/1.png"/>
+	<file src="/assets/2.png"/>
+	<file src="/assets/3.png"/>
+	<file src="/assets/4.png"/>
+	<file src="/assets/5.png"/>
+	<file src="/assets/6.png"/>
+	<file src="/assets/pd.png"/>
+	<file src="/assets/d1.png"/>
+	<file src="/assets/d2.png"/>
+	<file src="/assets/medic.png"/>
+	<file src="/assets/sheriff.png"/>
+	<file src="/assets/meca.png"/>
+	<file src="/assets/fps.png"/>
+	<file src="/assets/ping.png"/>
+	<file src="/assets/time.png"/>
+	<file src="/assets/bg.png"/>
+	<script src="c_circle.lua" type="client" />
+	<file src="circle.fx" type="client" />
+</meta>
+

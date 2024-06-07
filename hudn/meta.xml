@@ -1,0 +1,7 @@
+<meta> 
+    <script src="client.lua" type="client" />
+    <file src="backm.png" />
+    <file src="cc.png" />
+    <file src="cc2.png" />
+	<file src="cc3.png" />
+</meta>
